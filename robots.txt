@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utchem.github.io/sitemap.html
+Sitemap: https://utchem.github.io/app/sitemap.html
+Sitemap: https://utchem.github.io/assets/sitemap.html
+Sitemap: https://utchem.github.io/includes/sitemap.html
+Sitemap: https://utchem.github.io/src/sitemap.html
